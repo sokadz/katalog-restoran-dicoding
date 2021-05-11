@@ -17,7 +17,7 @@ body {
 	color: #424242
 }
 .menumob {
-	background-color: #135ea8;
+	background-color: #81b214;
 	color: white !important;
 	width: 100%;
 	display: flex;
@@ -27,7 +27,7 @@ body {
 	justify-content: space-between
 }
 .navmob {
-	background-color: #135ea8;
+	background-color: #81b214;
 	width: 100%;
 	display: flex;
 	font-weight: 600;
@@ -58,7 +58,7 @@ body {
 	text-decoration: none
 }
 .nav {
-	background-color: #135ea8;
+	background-color: #81b214;
 	width: 100%;
 	display: flex;
 	font-weight: 600;
@@ -158,7 +158,7 @@ main {
 	top: 8px;
 	left: 16px;
 	border-radius: 5px;
-	background-color: #135ea8;
+	background-color: #81b214;
 	padding: 5px 10px 5px;
 	color: white;
 	font-weight: 500
@@ -177,7 +177,7 @@ main {
 	font-weight: 500
 }
 .list_item_rating_value {
-	color: red;
+	color: #f21170;
 	text-decoration: none
 }
 .list_item_title {
@@ -199,7 +199,7 @@ main {
 	line-height: 1.5em
 }
 footer {
-	background-color: #135ea8;
+	background-color: #81b214;
 	color: white;
 	font-size: 14px;
 	padding: 2em;
@@ -210,7 +210,7 @@ footer {
 	position: absolute;
 	top: -100px;
 	left: 0;
-	background-color: #bf1722;
+	background-color: #f21170;
 	color: white;
 	padding: 10px;
 	font-size: 20px;
