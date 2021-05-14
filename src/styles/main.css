@@ -24,7 +24,7 @@ body {
 	font-weight: 600;
 	font-size: 20px;
 	padding: 10px;
-	justify-content: space-between
+	justify-content: space-between;
 }
 .navmob {
 	background-color: #81b214;
@@ -50,7 +50,11 @@ body {
 }
 .iconmenu a {
 	text-decoration: none;
-	color: white !important
+	color: white !important;
+	margin-right: 25px;
+	min-height: 44px;
+    min-width: 44px;
+    line-height: 44px;
 }
 .navmob a {
 	display: inline-block;
@@ -91,7 +95,7 @@ body {
 	display: inline-block;
 	padding: 1.3em;
 	text-decoration: none;
-	color: white !important
+	color: white !important;
 }
 .nav a:hover {
 	text-decoration: none
